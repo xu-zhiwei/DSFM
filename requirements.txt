@@ -1,0 +1,8 @@
+chardet==3.0.4
+javalang==0.13.0
+networkx==2.6.3
+pandas==1.3.4
+pycparser==2.20
+scikit_learn==1.1.2
+torch==1.12.1
+tqdm==4.62.3
